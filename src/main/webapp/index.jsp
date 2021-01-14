@@ -16,6 +16,7 @@
       
       <s:form action="hello">
       <s:textfield name="name" label="Please enter your Name"/><br/>
+      <s:textfield name ="password" label="password"/>
 	<s:submit value="Say Hello"/>      
       </s:form>
 </body>
